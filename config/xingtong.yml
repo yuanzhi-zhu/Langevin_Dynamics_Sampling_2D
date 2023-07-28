@@ -1,0 +1,8 @@
+image: "images/xingtong.jpg"
+threshold: 100
+n_samples: 5000
+n_iters: 100
+inner_iter: 1
+n_steps: 3000
+steps_per_frame: 2
+lr: 0.1
